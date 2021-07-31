@@ -1,1 +1,2 @@
-Type here
+Copy paste the all the commands that you executed on IDLE:
+
