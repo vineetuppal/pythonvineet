@@ -1,2 +1,6 @@
 Copy paste the all the commands that you executed on IDLE:
-
+>>> 273.15+25
+298.15
+>>> 911-314
+597
+>>>
