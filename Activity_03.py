@@ -1,0 +1,6 @@
+s1=input("Enter string_1\n")
+s2=input("Enter string_2\n")
+print(s1+s2)
+print(s1+s2+s1+s2+s1+s2+s1+s2+s1+s2)
+print(s1+s2,s1+s2)
+print(s1+s2,s1+s2,s1+s2)
